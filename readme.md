@@ -20,6 +20,6 @@
 <li>Don't overthink this: It can be done in fewer than 10 lines of code.</li>
 <li>Need a Flexbox reminder? <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">A Complete Guide to Flexbox</a></li>
 <li>Don't ask for help on this one. We want to see if you can do this on your own.</li>
-<li>If it's taking you beyond 1 hour to complete, stop there, reply to this email, and let me know.</li>
+<li>If it's taking you beyond 1 hour to complete, stop there, reply to the email, and let me know.</li>
 </ul>
 </section>
