@@ -1,5 +1,7 @@
 <h1>WDDEP: Unit 2 Assessment</h1>
 
+<h2>This project served as a self-assessment for my students in Literacy Alberni's Web Design and Development Employment Program.</h2>
+
 <section class="instructions">
 <h2>Instructions:</h2>
 <p>Download this repository to your computer.</p>
